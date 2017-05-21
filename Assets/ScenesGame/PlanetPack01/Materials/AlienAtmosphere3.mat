@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AlienAtmosphere3
+  m_Shader: {fileID: 4800000, guid: 0f78add172b79fb40aebb6b2173da900, type: 3}
+  m_ShaderKeywords: _EMISSION _METALLICGLOSSMAP _NORMALMAP
+  m_LightmapFlags: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: c7cb4ed4ddf452147ba7d34abd16db88, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 91de6fc0a8829d74ea933f8f3f964b76, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 9a98456ba8ba376499c5321e3c8c5350, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Glossiness
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _AOMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 36b15fe8dacb23e41a7c1078bf079a1e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetalGlossiness
+        second:
+          m_Texture: {fileID: 2800000, guid: 9a98456ba8ba376499c5321e3c8c5350, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Cutoff
+        second: .588
+      data:
+        first:
+          name: _Parallax
+        second: .00939999986
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: .563000023
+      data:
+        first:
+          name: _BumpScale
+        second: .25
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _EmissionScaleUI
+        second: 15
+      data:
+        first:
+          name: _AOalbedo
+        second: 0
+      data:
+        first:
+          name: _SmoothnessShift
+        second: .0769999996
+      data:
+        first:
+          name: _AOsmoothness
+        second: -.0970000029
+      data:
+        first:
+          name: _AOintensity
+        second: 1.21000004
+      data:
+        first:
+          name: _EmissionScale
+        second: 0
+      data:
+        first:
+          name: _AlphaScale
+        second: 1.20000005
+      data:
+        first:
+          name: _DisplacementClouds
+        second: .00499999989
+      data:
+        first:
+          name: _Outeratmospherelimit
+        second: .735000014
+      data:
+        first:
+          name: _Outeratmopsheredensity
+        second: 1
+      data:
+        first:
+          name: _Inneratmopsheredensity
+        second: .391000003
+      data:
+        first:
+          name: _Innerouterlimit
+        second: .664739907
+      data:
+        first:
+          name: _Inneroutersmoothness
+        second: .257242799
+      data:
+        first:
+          name: _DisplacementAtmosphere
+        second: .0346000008
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 15, g: 15, b: 15, a: 15}
+      data:
+        first:
+          name: _Color
+        second: {r: .610294104, g: .610294104, b: .610294104, a: 1}
+      data:
+        first:
+          name: _EmissionColorUI
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Highatmospherecolor
+        second: {r: 0, g: .279411793, b: .117545627, a: 0}
+      data:
+        first:
+          name: _Lowatmospherecolor
+        second: {r: .18158932, g: .264705896, b: .124567471, a: 1}
+      data:
+        first:
+          name: _Inneratmosphere
+        second: {r: .258121878, g: .301470578, b: .230536327, a: 1}

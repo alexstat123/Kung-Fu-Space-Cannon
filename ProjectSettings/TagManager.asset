@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - target1
+  - planet
+  - bullet
+  - Planet2
+  - NumberOfBalls
+  - wall
+  - SpeedBar
+  - Spawn
+  - Manager
+  - TouchManager
+  - Brick
+  - smallplanet
+  - TrackBullet
+  - b1
+  - bullet2
+  - Cylinder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3049863299
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
